@@ -1,1 +1,18 @@
+1. mảng là tập hợp các phần tử co chung kiểu dữ liệu.
+
+2. số lượng phần tử tối đa của mảng là giá trị hằng số không thể thay đổi trong suốt chương trình.
+3. mảng tĩnh khác  so với mảng động la so lượng phần tử tối đa là cố định được khai báo lúc ban đầu.
+
+4. chương trình sẽ xử lý gì khi gặp lệnh:   int a[10];
+cấp phát 10 vùng nhớ liên tiếp nhau mỗi vùng nhớ có độ lớn 4 byte,có kdl là int .
+
+5.  ý nghĩa lệnh:  int a[7] là khai báo 1 mang a có tối đa 7 phần tử và mảng này có kiểu số nguyên.
+lệnh   a[0]; goi tên phần tử đầu tiên trong mảng
+
+6. giá trị của các phần tử mảng sau khi vừa khai báo là giá trị rác.
+
+7. trình bày công thức tính kích thước mảng: float a[n]
++ Kdl Foat: 4 byte
++ mang a[n] : n phần tử
++ kích thước mang = độ lớn kiểu dữ liệu* số phần tử mảng = 4*n;
 
