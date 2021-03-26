@@ -1,6 +1,7 @@
 1. mảng là tập hợp các phần tử co chung kiểu dữ liệu,liên tiếp nhau trong bộ nhớ.
 
 2. số lượng phần tử tối đa của mảng là giá trị hằng số không thể thay đổi trong suốt chương trình.
+
 3. mảng tĩnh khác  so với mảng động la so lượng phần tử tối đa là cố định được khai báo lúc ban đầu.
 
 4. chương trình sẽ xử lý gì khi gặp lệnh:   int a[10];
